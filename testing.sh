@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -d /usr/share/wordLists ];
+if [ -e /home/desarrollo04/Descargas/composer-setup.php ];
 then
         echo "Si existe"
 else
